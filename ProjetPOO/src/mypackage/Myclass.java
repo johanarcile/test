@@ -3,7 +3,7 @@ package mypackage;
 public class Myclass {
 	
 	public static void main(String[] args){
-		Objet obj = new Objet(5,"yo");
+		Objet obj = new Objet(5,"yohoho");
 		obj.multiply(10);
 		System.out.println("a="+obj.getA()+" and b="+obj.getB());
 		ObjectPlus obj2 = new ObjectPlus(3,"hey",'H');
